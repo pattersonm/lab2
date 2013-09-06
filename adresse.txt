@@ -1,0 +1,5 @@
+http://www.google.ca
+http://www.mozilla.org
+http://www.wikipedia.org
+http://www.perdu.com
+http://www.baidu.cn
